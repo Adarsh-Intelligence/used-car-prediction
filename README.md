@@ -1,4 +1,4 @@
-# Used Car Price Predictor
+# Used Car Price Predictor   minor 1 project 
 
 A machine learning project that predicts the selling price of a used car and shows it in a simple Streamlit web app.
 
