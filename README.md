@@ -42,3 +42,4 @@ The app loads the pickle once, shows brand and model dropdowns (the model list d
 - The data are historical asking prices, so the result is an estimate, not an exact market price.
 - Details such as the exact variant, condition and accident history are not in the data.
 - Very new cars, very high kilometres and very rare models are outside what the model learned from.
+- lot of car review are hear
